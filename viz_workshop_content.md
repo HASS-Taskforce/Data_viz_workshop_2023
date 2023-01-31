@@ -1,7 +1,18 @@
-# 1. Data visualisation basics
-## What is data?
+# 1. Data visualisation basics 
+## What is data? (Participative activity adapted from ['Future Proof and FAIR Research Data: Open Data Management Best Practices and First Steps'](https://www.fosteropenscience.eu/node/2603))(45 mins)
+
+* Form groups (can be randomly allocated using a survey tool) and discuss:
+ - In your discipline, what are research data?
+ - How do they look like?  
+ - How can you interpret them?
+ - Share results and discuss as a group
 
 ## The importance of visual representation
+
+* Humanities, Arts and Social Sciences (HASS) research produces and work with data  
+* These can take many forms (i.e. discussion outcomes)
+* HASS research involves **enrichment** of data
+
 ## Informing Vs communicating: From perception to comprenhension
 ## The design process 
    - Principle of proportional ink 
