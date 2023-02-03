@@ -11,7 +11,10 @@
 
 * Humanities, Arts and Social Sciences (HASS) research produces and work with data  
 * These can take many forms (i.e. discussion outcomes)
-* HASS research involves **enrichment** of data
+* HASS research involves **enrichment** of data where layers of interpretation are added to original content.
+* Need to identify original (primary) and secondary data i.e. text anotation on work or corpora.
+* Visuals help researcher to communicate results and/or research journey.
+* Comprenhension of results and rationale by broader public. From knowledge to comprenhension.
 
 ## Informing Vs communicating: From perception to comprenhension
 ## The design process 
