@@ -18,6 +18,16 @@
 
 ## Informing Vs communicating: From perception to comprenhension
 * Perception, interpretation, comprenhension
+* 
+![from perception to comprenhension](https://github.com/HASS-Taskforce-University-of-Melbourne/Data_viz_workshop_2023/blob/da7346481c2fe67a05d5e47f8f3183ea0f0513ee/perceiving_comprehending.png)
+
+| Perceiving                                |Interpreting                                         |Comprenhending        |
+|-------------------------------------------|-----------------------------------------------------|----------------------|
+|Visualisation being used                   |Interesting features, shapes, patterns or connections|What has been learnt? |
+|Items represented by marks                 |Expected/unexpected features                         |What feelings have been stirred?                  |
+|Range of displayed values                  |Relevant features given the subject                  |What can be done with new knowledge                  |
+|Are data and representation *trustworthy*? |                                                     |                  | 
+
 ## The design process 
    - Principle of proportional ink 
    - Overlapping points
