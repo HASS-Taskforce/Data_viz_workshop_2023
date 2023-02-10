@@ -6,23 +6,26 @@
  - How do they look like?  
  - How can you interpret them?
  - Share results and discuss as a group
-
-## The importance of visual representation
-
 * Humanities, Arts and Social Sciences (HASS) research produces and work with data  
 * These can take many forms (i.e. discussion outcomes)
 * HASS research involves **enrichment** of data where layers of interpretation are added to original content: the value of annotations.
 * Need to identify original (primary) and secondary data i.e. text anotation on work or corpora.
+
+## The importance of visual representation
+* Visual representation is the key activity of data visualisation
 * Visuals help researcher to communicate results and/or research journey.
 * Comprenhension of results and rationale by broader public. From knowledge to comprenhension.
 
 ## Informing Vs communicating: From perception to comprenhension
+* Perception, interpretation, comprenhension
 ## The design process 
    - Principle of proportional ink 
    - Overlapping points
    - Legends and labels
    - Context and annotations
  ## Visual encoding: marks and attributes
+ * Marks represent items of data (lines, points, shapes) *not* their value
+ * Attributes visual variations of marks (colour, size, position) that describe the *value* associated with a particular marker.
  ## The grammar of graphics
  
  # 2. Data types and a directory of visualisations
