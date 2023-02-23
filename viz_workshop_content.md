@@ -36,7 +36,27 @@ Some real data to begin our discussion
 
 [From BOM to Excel with the help of Python](Artboard 1.png)
 
-[What do we have here](mov_fig_1.png)
+![Perception](mov_fig_1.png)
+* What features are observable?
+* Where are the largest, mid-sized and smallest values?
+* Where are the most and the last?
+* Where is the _average_?
+
+
+![Interpretation aided by design](mov_fig_2.png)
+* Are more features perceivable?
+
+
+![Drawing interpretations helped by extra knowledge](mov_fig_3.png)
+* What features are interesting?
+* What features are unexpected?
+* What features are important given the context?
+
+![Comprenhending by providing further info](mov_fig_4.png)
+* What has neem learnt?
+* Has the experience had an impact emotionally?
+* What does one do with this information?
+
 
 
 ## The design process 
