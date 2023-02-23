@@ -53,13 +53,17 @@ Some real data to begin our discussion
 * What features are important given the context?
 
 ![Comprenhending by providing further info](mov_fig_4.png)
-* What has neem learnt?
+* What has been learnt?
 * Has the experience had an impact emotionally?
 * What does one do with this information?
 
 
 
 ## The design process 
+
+* There is no perfect visualisation, but many ways to do the same task.
+
+
    - Principle of proportional ink 
    - Overlapping points
    - Legends and labels
