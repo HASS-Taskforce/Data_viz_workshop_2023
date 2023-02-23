@@ -66,10 +66,10 @@ Some real data to begin our discussion
 
    - Principle of proportional ink
     * Attributes must be proportional to the data values represented.
-    ![Breaking the principle](mov_fig5.png)
+    ![Breaking the principle](mov_fig_5.png)
     * Problems with this figure?
     
-    ![Why is the principle important?](mov_fig6.png)
+    ![Why is the principle important?](mov_fig_6.png)
 
 
    - Overlapping points
