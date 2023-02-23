@@ -57,20 +57,25 @@ Some real data to begin our discussion
 * Has the experience had an impact emotionally?
 * What does one do with this information?
 
-
-
-## The design process 
-
-* There is no perfect visualisation, but many ways to do the same task.
-
-
-   - Principle of proportional ink 
-   - Overlapping points
-   - Legends and labels
-   - Context and annotations
  ## Visual encoding: marks and attributes
  * Marks represent items of data (lines, points, shapes) *not* their value
  * Attributes visual variations of marks (colour, size, position) that describe the *value* associated with a particular marker.
+
+## The design process 
+* There is no perfect visualisation, but many ways to do the same task.
+
+   - Principle of proportional ink
+    * Attributes must be proportional to the data values represented.
+    ![Breaking the principle](mov_fig5.png)
+    * Problems with this figure?
+    
+    ![Why is the principle important?](mov_fig6.png)
+
+
+   - Overlapping points
+   - Legends and labels
+   - Context and annotations
+
  ## The grammar of graphics
  
  # 2. Data types and a directory of visualisations
