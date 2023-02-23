@@ -28,7 +28,15 @@
 |Range of displayed values                  |Relevant features given the subject                  |What can be done with new knowledge                  |
 |Are data and representation *trustworthy*? |                                                     |                  | 
 
-* Interpretation may be hindered
+### Perception to comprenhension: A visual journey
+
+Some real data to begin our discussion
+
+![The Box Office Mojo by IMDPro](https://www.boxofficemojo.com/weekend/2023W01/?area=AU&ref_=bo_wey_table_7) an open dabase of movie releases and box office revenue.
+
+
+
+
 ## The design process 
    - Principle of proportional ink 
    - Overlapping points
