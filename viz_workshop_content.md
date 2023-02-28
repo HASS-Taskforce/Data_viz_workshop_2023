@@ -64,15 +64,33 @@ Some real data to begin our discussion
 ## The design process 
 * There is no perfect visualisation, but many ways to do the same task.
 
-   - Principle of proportional ink
-    * Attributes must be proportional to the data values represented.
+### Principle of proportional ink
+ **Attributes must be proportional to the data values represented.**
     ![Breaking the principle](mov_fig_5.png)
-    * Problems with this figure?
+     Problems with this figure?
     
     ![Why is the principle important?](mov_fig_6.png)
 
 
-   - Overlapping points
+### Overlapping points
+* Arises when data has low resolution: the scale used to measure our data is too large so individual observations are hard to tell appart from each other.
+* Data points will have the same value even if they represent different entities or events.
+
+**The data**
+The Early English Books Online database ((EEBO)[https://www.proquest.com/eebo]) contains digital samples of almost every work printed in English from 1470 to 1700.
+![EEBO sub-sample](EEBO_plot_no_jitter.png)
+
+* Problems with this visualisation?
+
+A first solution: Displacing each point randomly by a little amount so that individual points become visible or _jitter_
+![EEBO jitter](EEBO_plot_jitter.png)
+
+Careful! too much jitter can also affect the integrity of the visualisation. 
+![EEBO too much jitter](EEBO_plot_too_jitter.png)
+
+
+Each visualisation requires different solutions to work
+
    - Legends and labels
    - Context and annotations
 
