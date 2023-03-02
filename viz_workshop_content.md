@@ -100,15 +100,18 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 * Legend help readers to identify marks and attributes easily. 
 * Axis labels give to reader a sense of time (days, months, years, centuries), magnitude (hundrends, thousands, millions), unit (for physical attributes), or orientation (North, South, East, West).
 
+![corruption_hdi](full_corruption_hdi_minimal.png)
 
 ## Context and annotations
 * Help reader going from perception to comprenhension.
-* Makes comparisons possible and the identification of extreme cases
-* Puts data into a broader context
+* Make comparisons possible and the identification of extreme cases
+* Put data into a broader context
 
+![corruption_hdi_presentation](full_corruption_hdi_presentation.png)
 ## Captions and placement of titles
 * Where is the visualisation going to be presented: print Vs. display
-* 
+
+![corruption_hdi_labelled](full_corruption_labelled.png)
 
  ## The grammar of graphics
  
@@ -117,14 +120,15 @@ Careful! too much jitter can also affect the integrity of the visualisation.
  ## Static, interactive and animated visualisations
  ## Structured and unstructured data types (text, numbers, images)
  ## CHRTS: the principal families of chart types for visualising quantitative data
-   - Categorical
-   - Hierarchical
-   - Relational
-   - Temporal
-   - Spatial
-
+   - Categorical plots: Compare categories and distributions of *quantitative* data
+   - Hierarchical plots: Reveal part-to-whole (part of a whole) relationships
+   - Relational plots: Display correlations and connections
+   - Temporal plots: Trends and intervals over time
+   - Spatial: Maps spatial patterns through overlays.
 
  ## Gallery of visualisations
+ **[From data to viz](https://www.data-to-viz.com)**
+ 
    - Bars
    - Scatter plots
    - Maps
