@@ -88,11 +88,27 @@ A first solution: Displacing each point randomly by a little amount so that indi
 Careful! too much jitter can also affect the integrity of the visualisation. 
 ![EEBO too much jitter](EEBO_plot_too_jitter.png)
 
+### Context to facilitate comprehension
 
-Each visualisation requires different solutions to work
+* Each visualisation requires different solutions to work, but there are some minimum requirements to improve communication with audience
 
-   - Legends and labels
-   - Context and annotations
+**The data**
+[A report published in 2011 by The Economist](https://www.economist.com/graphic-detail/2011/12/02/corrosive-corruption) revealed a correlation between corruption and development based on Transparency Interantional Corruption Perception Index and the UN's Human Development Index (HDI). Here we updated this report using data from 2012 to 2017 compiled by [Gapminder](https://www.gapminder.org/data/).
+
+## Legends and axis labels
+* Every figure needs a title conveying to the reader what the visualisation is about.
+* Legend help readers to identify marks and attributes easily. 
+* Axis labels give to reader a sense of time (days, months, years, centuries), magnitude (hundrends, thousands, millions), unit (for physical attributes), or orientation (North, South, East, West).
+
+
+## Context and annotations
+* Help reader going from perception to comprenhension.
+* Makes comparisons possible and the identification of extreme cases
+* Puts data into a broader context
+
+## Captions and placement of titles
+* Where is the visualisation going to be presented: print Vs. display
+* 
 
  ## The grammar of graphics
  
