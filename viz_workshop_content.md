@@ -137,6 +137,38 @@ Careful! too much jitter can also affect the integrity of the visualisation.
  ## What is the best plot for my data?
  
  # 3. Colour theory and digital colour palettes
+ 
+ Color theory is the study of how colors interact with one another and how they can be combined to create aesthetically pleasing designs. It explores the science and psychology behind colors and how they can be used to create visual impact and meaning.
+
+Color theory is based on the color wheel, which is a circular diagram that shows the primary, secondary, and tertiary colors. The primary colors are red, blue, and yellow, and they cannot be created by mixing other colors. Secondary colors are created by mixing two primary colors together, such as purple (red and blue) and green (blue and yellow). Tertiary colors are created by mixing a primary color with a secondary color, such as red-orange or blue-green.
+
+One important aspect of color theory is color harmony, which refers to the way colors are combined to create a pleasing visual effect. There are several ways to achieve color harmony, including complementary colors, analogous colors, and triadic colors. Complementary colors are opposite each other on the color wheel, such as red and green, and they create a strong visual contrast when used together. Analogous colors are next to each other on the color wheel, such as blue and green, and they create a harmonious and calming effect. Triadic colors are evenly spaced on the color wheel, such as red, yellow, and blue, and they create a vibrant and balanced color scheme.
+
+Another aspect of color theory is color psychology, which explores the emotional and psychological effects of colors. For example, red is often associated with passion and energy, while blue is associated with calmness and trust. Different colors can evoke different emotions and moods, and designers can use this knowledge to create designs that convey a particular message or feeling.
+ 
+ 
+ Psychology of Colour
+ 
+The psychology of color explores how different colors can affect our emotions, moods, and behaviors. While color psychology is not an exact science and can vary based on cultural contexts and personal experiences, there are some general associations and meanings that can be applied to colors.
+
+Red is often associated with passion, excitement, and danger. In Western cultures, red is often associated with love and Valentine's Day. In China, red is considered a lucky color and is associated with prosperity and happiness. In India, red is often worn by brides and is seen as a symbol of purity and fertility.
+
+Yellow is associated with happiness, optimism, and warmth. In Western cultures, yellow is often associated with sunshine and summer. In Japan, yellow is considered a sacred and imperial color. In Egypt, yellow is associated with mourning.
+
+Blue is associated with calmness, trust, and serenity. In Western cultures, blue is often associated with the ocean and the sky. In China, blue is associated with immortality and longevity. In Iran, blue is associated with mourning and depression.
+
+Green is associated with nature, growth, and balance. In Western cultures, green is often associated with environmentalism and sustainability. In Islamic cultures, green is considered a sacred color and is associated with paradise.
+
+Purple is associated with royalty, luxury, and creativity. In Western cultures, purple is often associated with nobility and wealth. In Thailand, purple is considered a mourning color.
+
+White is associated with purity, cleanliness, and innocence. In Western cultures, white is often associated with weddings and new beginnings. In China, white is associated with death and mourning.
+
+Black is associated with sophistication, elegance, and mystery. In Western cultures, black is often associated with formal events and mourning. In Japan, black is considered a color of honor and respect.
+
+While these are just some general associations and meanings of colors, it's important to remember that color psychology can vary based on cultural contexts and personal experiences. Designers should consider the cultural nuances of color meanings when creating designs for a specific audience or market. By understanding the psychology of color and its cultural nuances, designers can create effective and meaningful designs that resonate with their audience.
+ 
+ 
+ 
  ## Human colour vision and the computer red, green and blue (RGB) system: properties of colour and how they are represented
    - Colour names, RGB and hex notation to define colours
  ## Colour blindness and design principles for inclusive visualisations
