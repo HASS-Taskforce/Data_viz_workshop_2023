@@ -115,11 +115,14 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 
 # 2.GALLERY OF VISUALISATIONS
  ## CHRTS: the principal families of chart types for visualising quantitative data
-   - Categorical plots: Compare categories and distributions of *quantitative* data
+   - Categorical plots: Compare categories and distributions by *quantification* of data
+     - Bars, Word clouds, Matrix Charts
    - Hierarchical plots: Reveal part-to-whole (part of a whole) relationships
    - Relational plots: Display correlations and connections
    - Temporal plots: Trends and intervals over time
    - Spatial: Maps spatial patterns through overlays.
+
+
 
  **[From data to viz](https://www.data-to-viz.com)**
  
@@ -140,12 +143,20 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 |Amplifies control over the viewing experience                      |Accesibility may be affected                                    |
 
 Features:
-* Filtering
-* Highlighting
-* Participating
-* Navigating
- 
- 
+* Filtering: User controls the data to be displayed by including or excluding certain categorial groups or values
+* Highlighting: Emphasises particular aspects of the data by highlighting specific values. Summarises values
+* Participating: Ask users to input data to produce a display quizzes and surveys.
+* Navigating: Accessing multiple views or gaining a more detailed display by zooming in.
+* Animation: Can give an spatial or temporal dimension to data.
+
+Features are not mutually exclusive and can be mixed to facilitate comprenhension.
+
+Examples:
+[Baby Names in England and Wales](https://www.ons.gov.uk/visualisations/dvc363/babyindex.htm)
+[COVID-19 visualizer](https://www.covidvisualizer.com)
+[Colonial Frontier Massacres Australia map](https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
+
+
  ## What is the best plot for my data?
  
  # 3. Colour theory and digital colour palettes
