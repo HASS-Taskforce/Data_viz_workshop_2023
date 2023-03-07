@@ -113,12 +113,7 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 
 ![corruption_hdi_labelled](full_corruption_labelled.png)
 
- ## The grammar of graphics
- 
- # 2. Data types and a directory of visualisations
- 
- ## Static, interactive and animated visualisations
- ## Structured and unstructured data types (text, numbers, images)
+# 2.GALLERY OF VISUALISATIONS
  ## CHRTS: the principal families of chart types for visualising quantitative data
    - Categorical plots: Compare categories and distributions of *quantitative* data
    - Hierarchical plots: Reveal part-to-whole (part of a whole) relationships
@@ -126,13 +121,30 @@ Careful! too much jitter can also affect the integrity of the visualisation.
    - Temporal plots: Trends and intervals over time
    - Spatial: Maps spatial patterns through overlays.
 
- ## Gallery of visualisations
  **[From data to viz](https://www.data-to-viz.com)**
  
    - Bars
    - Scatter plots
    - Maps
    - Network diagrams
+
+ 
+ 
+ # 3. Interactive and animated visualisations
+ Interactive visualisations: From viewer to user. 
+|Pros                                                               |Cons                                                            |
+|-------------------------------------------------------------------|----------------------------------------------------------------|
+|Can expand physical limits of a visualisation                      |Viewer must be enticed to become a user                         |
+|May provide different insights to different people                 |Can only be fully realised on digital media                     |
+|Facilitates changing perspectives to show different aspects of data|Limited technological resources may impair visual communication |
+|Amplifies control over the viewing experience                      |Accesibility may be affected                                    |
+
+Features:
+* Filtering
+* Highlighting
+* Participating
+* Navigating
+ 
  
  ## What is the best plot for my data?
  
