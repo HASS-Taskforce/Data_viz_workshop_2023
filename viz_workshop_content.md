@@ -116,8 +116,16 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 # 2.GALLERY OF VISUALISATIONS
  ## CHRTS: the principal families of chart types for visualising quantitative data
    - Categorical plots: Compare categories and distributions by *quantification* of data
-     - Bars, Word clouds, Matrix Charts
+     - Bars, Word clouds, Pictograms
+   ![Word cloud](yellow_cloud.png "Word Cloud")
+   
+   ![Rappers pictogram](rappers_pictogram.png "Pictogram")
+   
+   
+   
+   
    - Hierarchical plots: Reveal part-to-whole (part of a whole) relationships
+     - Pie/Donut charts, Tree maps
    - Relational plots: Display correlations and connections
    - Temporal plots: Trends and intervals over time
    - Spatial: Maps spatial patterns through overlays.
