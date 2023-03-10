@@ -121,13 +121,22 @@ Careful! too much jitter can also affect the integrity of the visualisation.
    
    ![Rappers pictogram](rappers_pictogram.png "Pictogram")
    
-   
-   
-   
+      
    - Hierarchical plots: Reveal part-to-whole (part of a whole) relationships
-     - Pie/Donut charts, Tree maps
+     - Pie/donught charts
+     - Stacked bars
+     - Tree maps
+    ![One category treechart](four_regions_treemap.png)
+    
+    ![Two categories treechart](eight_regions_treemap.png)
+    
    - Relational plots: Display correlations and connections
+   - Scatter diagrams
+   - Bubble charts
+   ![Bubble charts](happy_corruption_hdi_fully_annotated.png)
+   
    - Temporal plots: Trends and intervals over time
+   
    - Spatial: Maps spatial patterns through overlays.
 
 
@@ -160,7 +169,7 @@ Features:
 Features are not mutually exclusive and can be mixed to facilitate comprenhension.
 
 Examples:
-[Baby Names in England and Wales](https://www.ons.gov.uk/visualisations/dvc363/babyindex.htm)
+[Baby Names in England and Wales](https://www.ons.gov.uk/visualisations/dvc363/babyindex.html)
 [COVID-19 visualizer](https://www.covidvisualizer.com)
 [Colonial Frontier Massacres Australia map](https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
 
