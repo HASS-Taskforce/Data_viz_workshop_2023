@@ -9,29 +9,29 @@
 * Humanities, Arts and Social Sciences (HASS) research produces and work with data  
 * These can take many forms (i.e. discussion outcomes)
 * HASS research involves **enrichment** of data where layers of interpretation are added to original content: the value of annotations.
-* Need to identify original (primary) and secondary data i.e. text anotation on work or corpora.
+* Need to identify original (primary) and secondary data i.e. text annotation on work or corpora.
 
 ## The importance of visual representation
 * Visual representation is the key activity of data visualisation
 * Visuals help researcher to communicate results and/or research journey.
-* Comprenhension of results and rationale by broader public. From knowledge to comprenhension.
+* Comprehension of results and rationale by broader public. From knowledge to comprehension.
 
-## Informing Vs communicating: From perception to comprenhension
-* Perception, interpretation, comprenhension
+## Informing Vs communicating: From perception to comprehension
+* Perception, interpretation, comprehension
 
-![from perception to comprenhension](perceiving_comprehending.png)
-| Perceiving                                |Interpreting                                         |Comprenhending        |
+![from perception to comprehension](perceiving_comprehending.png)
+| Perceiving                                |Interpreting                                         |Comprehending        |
 |-------------------------------------------|-----------------------------------------------------|----------------------|
 |Visualisation being used                   |Interesting features, shapes, patterns or connections|What has been learnt? |
 |Items represented by marks                 |Expected/unexpected features                         |What feelings have been stirred?                  |
 |Range of displayed values                  |Relevant features given the subject                  |What can be done with new knowledge                  |
 |Are data and representation *trustworthy*? |                                                     |                  | 
 
-### Perception to comprenhension: A visual journey
+### Perception to comprehension: A visual journey
 
 Some real data to begin our discussion
 
-[The Box Office Mojo by IMDPro](https://www.boxofficemojo.com/weekend/2023W01/?area=AU&ref_=bo_wey_table_7) an open dabase of movie releases and box office revenue.
+[The Box Office Mojo by IMDPro](https://www.boxofficemojo.com/weekend/2023W01/?area=AU&ref_=bo_wey_table_7) an open database of movie releases and box office revenue.
 
 ![From BOM to Excel with the help of Python](bom_to_excel.png)
 
@@ -51,7 +51,7 @@ Some real data to begin our discussion
 * What features are unexpected?
 * What features are important given the context?
 
-![Comprenhending by providing further info](mov_fig_4.png)
+![Comprehending by providing further info](mov_fig_4.png)
 * What has been learnt?
 * Has the experience had an impact emotionally?
 * What does one do with this information?
@@ -72,7 +72,7 @@ Some real data to begin our discussion
 
 
 ### Overlapping points
-* Arises when data has low resolution: the scale used to measure our data is too large so individual observations are hard to tell appart from each other.
+* Arises when data has low resolution: the scale used to measure our data is too large so individual observations are hard to tell apart from each other.
 * Data points will have the same value even if they represent different entities or events.
 
 **The data**
@@ -89,20 +89,27 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 
 ### Context to facilitate comprehension
 
-* Each visualisation requires different solutions to work, but there are some minimum requirements to improve communication with audience
+#### Each visualisation requires different solutions to work, but there are some minimum requirements to improve communication with audience
 
 **The data**
-[A report published in 2011 by The Economist](https://www.economist.com/graphic-detail/2011/12/02/corrosive-corruption) revealed a correlation between corruption and development based on Transparency Interantional Corruption Perception Index and the UN's Human Development Index (HDI). Here we updated this report using data from 2012 to 2017 compiled by [Gapminder](https://www.gapminder.org/data/).
+
+[A report published in 2011 by The Economist](https://www.economist.com/graphic-detail/2011/12/02/corrosive-corruption) revealed a correlation between corruption and development. Here we updated this report using data from 2012 to 2017 compiled by [Gapminder](https://www.gapminder.org/data/).
+
+**Variables**
+
+* UN's Human Development index (HDI): Combined score for health level, educational level and living standards. Ranges from 0.0 to 1.0.
+* Perceived corruption: Transparency international's score of perception of corruption. Ranges from 1 to 100. Higher scores represent less perceived corruption. 
+* Happiness score: National average response to a question of life evaluation measured by the Cantril life ladder. Scaled from 0 to 100. Higher scores denote a more positive perception.
 
 ## Legends and axis labels
 * Every figure needs a title conveying to the reader what the visualisation is about.
 * Legend help readers to identify marks and attributes easily. 
-* Axis labels give to reader a sense of time (days, months, years, centuries), magnitude (hundrends, thousands, millions), unit (for physical attributes), or orientation (North, South, East, West).
+* Axis labels give to reader a sense of time (days, months, years, centuries), magnitude (hundreds, thousands, millions), unit (for physical attributes), or orientation (North, South, East, West).
 
 ![corruption_hdi](full_corruption_hdi_minimal.png)
 
 ## Context and annotations
-* Help reader going from perception to comprenhension.
+* Help reader going from perception to comprehension.
 * Make comparisons possible and the identification of extreme cases
 * Put data into a broader context
 
@@ -133,27 +140,24 @@ Careful! too much jitter can also affect the integrity of the visualisation.
    
       
    ### Hierarchical plots: Reveal part-to-whole (part of a whole) relationships
-    - Pie/donught charts
-    - Stacked bars
-    - Tree maps
    ![One category treechart](four_regions_treemap.png)
    ![Two categories_treechart](eight_regions_treemap.png)
     
    ### Relational plots: Display correlations and connections between two variables
-   - Scatter diagrams
-   - Bubble charts
+
    ![Bubble charts](happy_corruption_hdi_fully_annotated.png)
    
    ### Temporal plots: Trends and intervals over time
    
-   ![Baby names chart](baby_names.png)
-   ![Empires](empires.jpg)
+![Baby names chart](baby_names.png)
+
+![Empires](empires.jpg)
    
-   (by: Steffania Guerra, originally published in italian at La Lettura)
+   (Designed and produced by Accurat (www.accurat.it), originally published in italian on *La Lettura* cultural suplement)
    
    ### Spatial: Maps spatial patterns through overlays.
 
-   ![Colonial Massacres Map](colonial_massacres_map.png)
+   ![Colonial Massacres Map](Colonial_massacres_map.png)
 
  **[From data to viz](https://www.data-to-viz.com)**
  
@@ -164,7 +168,7 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 |Can expand physical limits of a visualisation                      |Viewer must be enticed to become a user                         |
 |May provide different insights to different people                 |Can only be fully realised on digital media                     |
 |Facilitates changing perspectives to show different aspects of data|Limited technological resources may impair visual communication |
-|Amplifies control over the viewing experience                      |Accesibility may be affected                                    |
+|Amplifies control over the viewing experience                      |Accessibility may be affected                                    |
 
 Features:
 * Filtering: User controls the data to be displayed by including or excluding certain categorial groups or values
@@ -173,19 +177,27 @@ Features:
 * Navigating: Accessing multiple views or gaining a more detailed display by zooming in.
 * Animation: Can give an spatial or temporal dimension to data.
 
-Features are not mutually exclusive and can be mixed to facilitate comprenhension.
+Features are not mutually exclusive and can be mixed to facilitate comprehension.
 
 Examples:
-![Baby Names in England and Wales](https://www.ons.gov.uk/visualisations/dvc363/babyindex.html)
 
-![COVID-19 visualizer](https://www.covidvisualizer.com)
+[Rappers sorted by the size of their unique vocabulary](https://pudding.cool/projects/vocabulary/)
 
-![Colonial Frontier Massacres Australia map](https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
+[Baby Names in England and Wales](https://www.ons.gov.uk/visualisations/dvc363/babyindex.html)
+
+[COVID-19 visualizer](https://www.covidvisualizer.com)
+
+[Colonial Frontier Massacres Australia map](https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
+
+Questions:
+
+* What are the main features used on each visualisation?
+* How many, and what variables are quantified by the features used?
+* Are some of the features redundant?
 
 
- ## What is the best plot for my data?
  
- # 3. Colour theory and digital colour palettes
+ # 4. Colour theory and digital colour palettes
  
  Color theory is the study of how colors interact with one another and how they can be combined to create aesthetically pleasing designs. It explores the science and psychology behind colors and how they can be used to create visual impact and meaning.
 
