@@ -115,42 +115,50 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 
 # 2.GALLERY OF VISUALISATIONS
  ## CHRTS: the principal families of chart types for visualising quantitative data
-   - Categorical plots: Compare categories and distributions by *quantification* of data
-     - Bars, Word clouds, Pictograms
+ **C**ategorical: (Bars, Word clouds, Pictograms) Compare categories and distributions by quantification of data
+ 
+ **H**ierarchical: (Pie/Donut, stacked bars, treemaps) Reveal part-to-whole (proportional) relationships
+ 
+ **R**elational: (Scatter plots, bubble chart) Explore relationships and connections between variables
+ 
+ **T**emporal: (Line charts, time lines, area chart, Gnatt charts) Show trend changes over time
+ 
+ **S**patial: Map spatial patterns using layers and geometrical distortions.
+ 
+ 
+   ### Categorical plots:
+   
    ![Word cloud](yellow_cloud.png "Word Cloud")
    
    ![Rappers pictogram](rappers_pictogram.png "Pictogram")
    
       
-   - Hierarchical plots: Reveal part-to-whole (part of a whole) relationships
-     - Pie/donught charts
-     - Stacked bars
-     - Tree maps
-    ![One category treechart](four_regions_treemap.png)
+   ### Hierarchical plots: Reveal part-to-whole (part of a whole) relationships
+    - Pie/donught charts
+    - Stacked bars
+    - Tree maps
+   ![One category treechart](four_regions_treemap.png)
+   ![Two categories_treechart](eight_regions_treemap.png)
     
-    ![Two categories treechart](eight_regions_treemap.png)
-    
-   - Relational plots: Display correlations and connections
+   ### Relational plots: Display correlations and connections between two variables
    - Scatter diagrams
    - Bubble charts
    ![Bubble charts](happy_corruption_hdi_fully_annotated.png)
    
-   - Temporal plots: Trends and intervals over time
+   ### Temporal plots: Trends and intervals over time
    
-   - Spatial: Maps spatial patterns through overlays.
+   ![Baby names chart](baby_names.png)
+   ![Empires](empires.jpg)
+   
+   (by: Steffania Guerra, originally published in italian at La Lettura)
+   
+   ### Spatial: Maps spatial patterns through overlays.
 
-
+   ![Colonial Massacres Map](colonial_massacres_map.png)
 
  **[From data to viz](https://www.data-to-viz.com)**
  
-   - Bars
-   - Scatter plots
-   - Maps
-   - Network diagrams
-
- 
- 
- # 3. Interactive and animated visualisations
+  # 3. Interactive and animated visualisations
  Interactive visualisations: From viewer to user. 
 |Pros                                                               |Cons                                                            |
 |-------------------------------------------------------------------|----------------------------------------------------------------|
@@ -169,9 +177,11 @@ Features:
 Features are not mutually exclusive and can be mixed to facilitate comprenhension.
 
 Examples:
-[Baby Names in England and Wales](https://www.ons.gov.uk/visualisations/dvc363/babyindex.html)
-[COVID-19 visualizer](https://www.covidvisualizer.com)
-[Colonial Frontier Massacres Australia map](https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
+![Baby Names in England and Wales](https://www.ons.gov.uk/visualisations/dvc363/babyindex.html)
+
+![COVID-19 visualizer](https://www.covidvisualizer.com)
+
+![Colonial Frontier Massacres Australia map](https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
 
 
  ## What is the best plot for my data?
