@@ -34,7 +34,7 @@ Some real data to begin our discussion
 
 [The Box Office Mojo by IMDPro](https://www.boxofficemojo.com/weekend/2023W01/?area=AU&ref_=bo_wey_table_7) an open dabase of movie releases and box office revenue.
 
-![From BOM to Excel with the help of Python](Artboard 1.png)
+![From BOM to Excel with the help of Python](bom_to_excel.png)
 
 ![Perception](mov_fig_1.png)
 * What features are observable?
