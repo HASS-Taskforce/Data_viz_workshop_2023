@@ -56,19 +56,21 @@ Some real data to begin our discussion
 * Has the experience had an impact emotionally?
 * What does one do with this information?
 
- ## Visual encoding: marks and attributes
+ 
+
+## 2. The design process 
+* There is no perfect visualisation, but many ways to do the same task.
+
+### Visual encoding: marks and attributes
  * Marks represent items of data (lines, points, shapes) *not* their value
  * Attributes visual variations of marks (colour, size, position) that describe the *value* associated with a particular marker.
 
-## The design process 
-* There is no perfect visualisation, but many ways to do the same task.
-
 ### Principle of proportional ink
  **Attributes must be proportional to the data values represented.**
-    ![Breaking the principle](mov_fig_5.png)
+  ![Breaking the principle](mov_fig_5.png)
      Problems with this figure?
     
-    ![Why is the principle important?](mov_fig_6.png)
+  ![Why is the principle important?](mov_fig_6.png)
 
 
 ### Overlapping points
@@ -119,7 +121,7 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 
 ![corruption_hdi_labelled](full_corruption_labelled.png)
 
-# 2.GALLERY OF VISUALISATIONS
+# 3. GALLERY OF VISUALISATIONS
  ## CHRTS: the principal families of chart types for visualising quantitative data
  **C**ategorical: (Bars, Word clouds, Pictograms) Compare categories and distributions by quantification of data
  
@@ -161,7 +163,7 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 
  **[From data to viz](https://www.data-to-viz.com)**
  
-  # 3. Interactive and animated visualisations
+  # 4. Interactive and animated visualisations
  Interactive visualisations: From viewer to user. 
 |Pros                                                               |Cons                                                            |
 |-------------------------------------------------------------------|----------------------------------------------------------------|
@@ -197,7 +199,7 @@ Questions:
 
 
  
- # 4. Colour theory and digital colour palettes
+ # 5. Colour theory and digital colour palettes
  
  Color theory is the study of how colors interact with one another and how they can be combined to create aesthetically pleasing designs. It explores the science and psychology behind colors and how they can be used to create visual impact and meaning.
 
