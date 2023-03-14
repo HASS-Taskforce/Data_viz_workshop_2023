@@ -73,7 +73,7 @@ Some real data to begin our discussion
   ![Why is the principle important?](mov_fig_6.png)
 
 
-### Overlapping points
+### Data resolution and overlapping points
 * Arises when data has low resolution: the scale used to measure our data is too large so individual observations are hard to tell apart from each other.
 * Data points will have the same value even if they represent different entities or events.
 
