@@ -66,7 +66,7 @@ Some real data to begin our discussion
  * Attributes visual variations of marks (colour, size, position) that describe the *value* associated with a particular marker.
 
 ### Principle of proportional ink
- **Attributes must be proportional to the data values represented.**
+ **Plot elements must be proportional to the data values represented.**
   ![Breaking the principle](mov_fig_5.png)
      Problems with this figure?
     
@@ -83,7 +83,7 @@ The Early English Books Online database ((EEBO)[https://www.proquest.com/eebo]) 
 
 * Problems with this visualisation?
 
-A first solution: Displacing each point randomly by a little amount so that individual points become visible or _jitter_
+A first solution: Displacing each point randomly by a little amount (_jitter_) so that individual points become visible.
 ![EEBO jitter](EEBO_plot_jitter.png)
 
 Careful! too much jitter can also affect the integrity of the visualisation. 
@@ -175,7 +175,7 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 Features:
 * Filtering: User controls the data to be displayed by including or excluding certain categorial groups or values
 * Highlighting: Emphasises particular aspects of the data by highlighting specific values. Summarises values
-* Participating: Ask users to input data to produce a display quizzes and surveys.
+* Participating: Ask users to input data to produce a display as for example, quizzes and surveys.
 * Navigating: Accessing multiple views or gaining a more detailed display by zooming in.
 * Animation: Can give an spatial or temporal dimension to data.
 
