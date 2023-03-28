@@ -229,21 +229,3 @@ White is associated with purity, cleanliness, and innocence. In Western cultures
 Black is associated with sophistication, elegance, and mystery. In Western cultures, black is often associated with formal events and mourning. In Japan, black is considered a color of honor and respect.
 
 While these are just some general associations and meanings of colors, it's important to remember that color psychology can vary based on cultural contexts and personal experiences. Designers should consider the cultural nuances of color meanings when creating designs for a specific audience or market. By understanding the psychology of color and its cultural nuances, designers can create effective and meaningful designs that resonate with their audience.
- 
- 
- 
- ## Human colour vision and the computer red, green and blue (RGB) system: properties of colour and how they are represented
-   - Colour names, RGB and hex notation to define colours
- ## Colour blindness and design principles for inclusive visualisations
- ## Choosing colour palettes to facilitate visual encoding
-   - Qualitative, sequential and diverging colour palettes
- 
- # 4. Common visualisation pitfalls
- ## Colour use
- ## Unnecessary use of 3-D
- ## Understanding your audience
- 
- # 5. Tools for making visualisations
- ## Coding Vs. no-coding solutions
- ## Tools with buttons, menus and a graphical user interface: Excel, Kepler, Gephi
- ## Python or R: Choosing the right tool for the job
