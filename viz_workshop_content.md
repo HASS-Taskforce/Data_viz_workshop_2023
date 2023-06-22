@@ -22,7 +22,7 @@
 ![from perception to comprehension](perceiving_comprehending.png)
 | Perceiving                                |Interpreting                                         |Comprehending        |
 |-------------------------------------------|-----------------------------------------------------|----------------------|
-|Visualisation being used                   |Interesting features, shapes, patterns or connections|What has been learnt? |
+|Type of visualization                      |Interesting features, shapes, patterns or connections|What has been learnt? |
 |Items represented by marks                 |Expected/unexpected features                         |What feelings have been stirred?                  |
 |Range of displayed values                  |Relevant features given the subject                  |What can be done with new knowledge                  |
 |Are data and representation *trustworthy*? |                                                     |                  | 
