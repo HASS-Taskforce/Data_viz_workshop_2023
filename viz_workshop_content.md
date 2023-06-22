@@ -101,7 +101,7 @@ Careful! too much jitter can also affect the integrity of the visualisation.
 
 * UN's Human Development index (HDI): Combined score for health level, educational level and living standards. Ranges from 0.0 to 1.0.
 * Perceived corruption: Transparency international's score of perception of corruption. Ranges from 1 to 100. Higher scores represent less perceived corruption. 
-* Happiness score: National average response to a question of life evaluation measured by the Cantril life ladder. Scaled from 0 to 100. Higher scores denote a more positive perception.
+
 
 ## Legends and axis labels
 * Every figure needs a title conveying to the reader what the visualisation is about.
